@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anubhav
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently learning Machine Learning & Artificial Intelligence
+- 🌱 Interested in Machine Learning & Artificial Intelligence
 
 <!---
 ANUBHAV-APJ/ANUBHAV-APJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
