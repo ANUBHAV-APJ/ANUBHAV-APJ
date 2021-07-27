@@ -1,6 +1,6 @@
 - 👋 Anubhav Sharma
 - 👀 Software Engineer
-- 🌱 Machine Learning & Artificial Intelligence
+- 🧠 Machine Learning & Artificial Intelligence
 - ✉ anubhav.apj@outlook.com
 <!---
 ANUBHAV-APJ/ANUBHAV-APJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
